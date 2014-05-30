@@ -1,0 +1,4 @@
+betterrails
+===========
+
+A better Rails
